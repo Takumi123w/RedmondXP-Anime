@@ -1,4 +1,8 @@
+/* Transparent bro since we need this for put anime in whisker */
+@define-color base_color rgba(32, 31, 28, 0.5);
+
 /*  Add menu border */
+/* A bit modifed*/
 #whiskermenu-window {
   padding: 0px;
   padding-top: 3px;
@@ -7,8 +11,8 @@
   background-color: transparent;
   background-image: url("assets/menu-top.png"),url("assets/menu-bottom.png"),url("assets/menubg.png");
   background-position: 0 0, 0 calc(100%), 0 68px;
-  background-size: 100% 65px, 100% 48px, 100% 3px;
-  background-repeat: no-repeat, no-repeat, repeat;
+  background-size: 100% 73px, 100% 48px, 100% 3px;
+  background-repeat: no-repeat, no-repeat, no-repeat;
   box-shadow: 0 -3px @light_shadow; }
 
 /*  border-image: linear-gradient(to bottom, #7faff2, #145ace 4%, #639cf2);*/ 
@@ -25,23 +29,25 @@
   background-color: rgba(255, 255, 2555, 0.25);
 }
 
+/* put anime background for whisker */
 .contents {
   border-radius: 3px 3px 0 0;
   border: 1px  #145ace solid;
   margin-right: -5px;
   margin-left: -5px;
   padding-top: 2px;
-  background-image: linear-gradient(to right, transparent, #db8b4e, transparent);
-  background-size: 100% 2px;
-  background-repeat: no-repeat;
-  background-color: #fff; }
+  background-image: linear-gradient(to right, transparent, #db8b4e, transparent), url("assets/anime-bg.png");
+  background-size: 100% 2px, auto;
+  background-position: 0 0, center;
+  background-repeat: no-repeat, no-repeat;
+  background-color:  transparent } 
 
 #whiskermenu-window border {
   border-color: transparent;
   border-image: url("assets/border.png");
   border-image-slice: 5 5 5 5; 
   border-top: 0px solid;
-  border-right: 2px solid;
+  border-right: 0px solid;
   border-left: 1px solid;
   border-bottom: 1px solid;}
 
@@ -49,7 +55,7 @@
 /* Menu scroll windows */
 #whiskermenu-window scrolledwindow,
 #whiskermenu-window scrolledwindow:first-child {
-  background-color: #fff;
+  background-color:  transparent;
   border: 0px transparent;
 }
    
