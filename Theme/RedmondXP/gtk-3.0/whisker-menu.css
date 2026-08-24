@@ -63,7 +63,7 @@
 #whiskermenu-window grid > scrolledwindow:first-child {
   margin-left: 0px;
   font-weight: bold;
-  background-color: #d3e5fb;
+  background-color: rgba(211, 229, 251, 0.5);
   border: 0px transparent;
   color: #203e74;
   border-right: 1px solid #607b9c;
@@ -72,7 +72,7 @@
 #whiskermenu-window scrolledwindow:nth-child(2) {
   margin-left: 0px;
   font-weight: bold;
-  background-color: #d3e5fb;
+  background-color: rgba(211, 229, 251, 0.5);
   color: #203e74;
   border: 0px transparent;
   border-left: 1px solid #607b9c;
