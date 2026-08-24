@@ -1,7 +1,7 @@
 # RedmondXP
 
 Windows XP inspired theme for GTK3 developed for XFCE4
-![Image Screenshot](https://github.com/matthewmx86/RedmondXP/blob/main/Screenshots/0.png)
+![Image Screenshot](https://github.com/matthewmx86/RedmondXP/blob/main/Screenshots/Screenshot_2026-08-24_15-52-31.png)
 Above: XFCE4
 ![Image Screenshot](https://github.com/matthewmx86/RedmondXP/blob/main/Screenshots/6.png)
 Above: MATE Desktop
