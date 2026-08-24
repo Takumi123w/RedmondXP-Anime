@@ -95,10 +95,6 @@ Notes:
 ## TODO
 1. Design or find suitable GTK2 theme to match. (My Win9x theme is currently included for GTK2)
 2. Fix issue with menus having the same border as main windows.
-
-## Screenshots
-![Image Screenshot](https://github.com/matthewmx86/RedmondXP/blob/main/Screenshots/2.png)
-![Image Screenshot](https://github.com/matthewmx86/RedmondXP/blob/main/Screenshots/1.png)
 ![Image Screenshot](https://github.com/matthewmx86/RedmondXP/blob/main/Screenshots/3.png)
 ![Image Screenshot](https://github.com/matthewmx86/RedmondXP/blob/main/Screenshots/4.png)
 ![Image Screenshot](https://github.com/matthewmx86/RedmondXP/blob/main/Screenshots/5.png)
