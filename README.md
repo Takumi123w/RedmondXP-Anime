@@ -1,4 +1,4 @@
-# RedmondXP
+# RedmondXP Anime
 
 Windows XP inspired theme for GTK3 developed for XFCE4
 ![Image Screenshot](https://github.com/Takumi123w/RedmondXP-Anime/blob/main/Screenshots/ss0.png)
