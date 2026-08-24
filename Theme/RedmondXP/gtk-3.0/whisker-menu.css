@@ -1,5 +1,5 @@
 /* Transparent bro since we need this for put anime in whisker */
-@define-color base_color rgba(32, 31, 28, 0.5);
+@define-color base_color rgba(255, 255, 255, 0.5);
 
 /*  Add menu border */
 /* A bit modifed*/
