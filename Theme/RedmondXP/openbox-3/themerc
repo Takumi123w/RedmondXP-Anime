@@ -1,0 +1,61 @@
+# Windows XP (Luna Blue) - labwc not openbox
+
+border.width: 2
+
+window.active.border.color: #0047ab
+window.inactive.border.color: #8ba3c7
+
+# --- Titlebar ---
+window.active.title.bg: Gradient Vertical
+window.active.title.bg.color: #4d9aff
+window.active.title.bg.colorTo: #0050e6
+
+window.inactive.title.bg: Gradient Vertical
+window.inactive.title.bg.color: #b7c8e0
+window.inactive.title.bg.colorTo: #94aad0
+
+window.active.label.text.color: #ffffff
+window.inactive.label.text.color: #e6ecf7
+window.label.text.justify: Left
+
+window.titlebar.padding.width: 6
+window.titlebar.padding.height: 3
+
+# --- Titlebar buttons ---
+window.button.width: 21
+window.button.height: 21
+window.button.spacing: 3
+
+window.button.hover.bg.color: #ffffff30
+window.button.hover.bg.corner-radius: 3
+
+window.active.button.unpressed.image.color: #ffffff
+window.inactive.button.unpressed.image.color: #dbe4f2
+
+# --- Menu (XP-style light blue selection) ---
+menu.width.min: 140
+menu.width.max: 280
+menu.border.width: 1
+menu.border.color: #0047ab
+menu.items.padding.x: 8
+menu.items.padding.y: 4
+menu.items.bg.color: #fdfeff
+menu.items.text.color: #000000
+menu.items.active.bg.color: #316ac5
+menu.items.active.text.color: #ffffff
+menu.separator.color: #a5c0e8
+menu.title.bg.color: #0050e6
+menu.title.text.color: #ffffff
+menu.title.text.justify: Left
+
+# --- OSD ---
+osd.bg.color: #dbe8fb
+osd.border.width: 1
+osd.border.color: #0047ab
+osd.label.text.color: #003399
+
+# --- Shadow ---
+window.active.shadow.size: 30
+window.active.shadow.color: #00000060
+window.inactive.shadow.size: 20
+window.inactive.shadow.color: #00000030
