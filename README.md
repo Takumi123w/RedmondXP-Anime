@@ -4,6 +4,9 @@ Windows XP inspired theme for GTK3 developed for XFCE4
 ![Image Screenshot](https://github.com/Takumi123w/RedmondXP-Anime/blob/main/Screenshots/ss1.png)
 Above: XFCE4
 
+## How change Anime picture
+Edit in Theme/RedmondXP/gtk-3.0/assets
+
 ## About
 The RedmondXP project aims to recreate the nostalgic look of Windows XP for the XFCE4 desktop environment. 
 
